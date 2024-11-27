@@ -1,0 +1,27 @@
+label,input,button{
+    margin: 10px;
+    padding: 5px;
+}
+.center{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100h;
+}
+.footer{
+    bottom: 0;
+    position: absolute;
+    width: 90%;
+    height: 40px;
+}
+ /* .LoginForm {
+    font-size:20px;
+    background-color: #00a5ab;
+    width:300px;
+    margin:10px;
+    color: whitesmoke;
+    padding:15px;
+    border-radius:20px;
+    border-color: black;
+    border-width:3px ;
+}  */

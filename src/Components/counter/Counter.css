@@ -1,0 +1,50 @@
+.counterButton {
+    font-size:20px;
+    background-color: #00a5ab;
+    width:100px;
+    margin:10px;
+    color: whitesmoke;
+    padding:15px;
+    border-radius:20px;
+    border-color: black;
+    border-width:3px ;
+}
+.count {
+    font-size: 50px;
+    padding: 20px;
+}       
+.totalcount {
+    font-size: 100px;
+    padding: 20px;
+    color:#010a0a;
+}       
+.resetButton{
+    font-size:20px;
+    background-color: #824f8c;
+    width:150px;
+    margin:10px;
+    color: whitesmoke;
+    padding:15px;
+    border-radius:20px;
+    border-color: black;
+    border-width:3px ;
+
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+.center1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+}
+.center2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+}
